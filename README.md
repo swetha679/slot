@@ -45,7 +45,7 @@ html:
 
 </header>
 <table class ="firsttab">
-    <caption class="tabletitle">SLOT TIMETABLE - MAHAGAURI P</caption>
+    <caption class="tabletitle">SLOT TIMETABLE - SWETHA NIVASINI B R</caption>
     <tr>
         <th>Day/Time</th>
         <th>Monday</th>
